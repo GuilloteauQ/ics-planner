@@ -1,0 +1,21 @@
+mandatory:
+    lunch break:
+        start: 12:30:00
+        end: 13:30:00
+    meeting:
+        start: 9:45:00
+        end: 10:00:00
+    cake:
+        start: 16:00:00
+        end: 16:30:00
+tasks:
+    task1:
+        timeslots: 7
+        divisible: false
+    task2:
+        timeslots: 1
+        divisible: true
+start_time: 9:00:00
+end_time: 17:00:00
+timeslots_size: 00:30:00
+day: 2021-02-18
